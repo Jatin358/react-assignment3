@@ -1,0 +1,226 @@
+{
+  "readnow": [
+    {
+      "author": "Isabella L. Bean, PharmD Candidate",
+      "title": "Emerging diagnostic tools and therapies for bladder cancer in canines - DVM 360",
+      "description": "Tumor cells and metabolites can be shed into the urine and these molecules may be used for tumor detection.",
+      "urlToImage": "https://cdn.sanity.io/images/0vv8moc6/dvm360/2cd036479ca89f7dd28d0e2af2fd405fb5f46c89-5000x3750.jpg?fit=crop&auto=format"
+    },
+    {
+      "title": "New tool reveals how immune cells find their targets - Science Daily",
+      "author": null,
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "description": "Biological engineers have devised a new experimental tool that allows them to precisely pick out interactions between a particular B or T cell and its target antigen.",
+      "onClick": "abc",
+      "id": 1
+    },
+    {
+      "title": "Kemenkes: 1,7 Juta Anak Belum Dapat Imunisasi Dasar Lengkap Selama Pandemi - BeritaSatu.com",
+      "author": "BeritaSatu.com",
+      "urlToImage": "https://img.beritasatu.com/cache/beritasatu/600x350-2/1608485973.jpg",
+      "description": "Terdapat 1,7 juta anak Indonesia belum mendapatkan imunisasi dasar secara lengkap selama pandemi Covid-19.",
+      "onClick": "abc",
+      "id": 2
+    },
+    {
+      "title": "New tool reveals how immune cells find their targets - Science Daily",
+      "author": null,
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "description": "Biological engineers have devised a new experimental tool that allows them to precisely pick out interactions between a particular B or T cell and its target antigen.",
+      "onClick": "abc",
+      "id": 3
+    },
+    {
+      "title": "#ExclusivoMSP - Dr. Santini: Primera reparación de aneurisma en Puerto Rico - Medicina y Salud Publica",
+      "author": "Yolimarian Torres",
+      "urlToImage": "https://medicinaysaludpublica.blob.core.windows.net.optimalcdn.com/images/2022/04/11/aneurisma-02-1-fda2f2a8.png",
+      "description": "#MSP: Lo más relevante para médicos, pacientes y profesionales de la salud. #Pioneros",
+      "onClick": "abc",
+      "id": 4
+    },
+    {
+      "title": "مفاجاه غير متوقعة..ضع فصين ثوم أسفل الوسادة مرة واحدة قبل النوم.. شاهد ماذا يحدث لجسمك؟ - كورة في العارضة - كورة في العارضة",
+      "author": "Ramadan-elfeky",
+      "urlToImage": "https://cdn.fal3arda.com/wp-content/uploads/2022/04/images-2022-04-11T174629.471-1649692014.jpeg",
+      "description": "يعتبر الثوم من اكثر الخضروات التي تحتوي علي فوائد صحية وعناصر غذائية عديدة وضرورية جدا لجسم وصحة الانسان الامر الذي دفع العديد من الاطباء وينصحون بتناول الثوم",
+      "onClick": "abc",
+      "id": 5
+    },
+    {
+      "title": "How to know if your child is allergic to certain foods - The Indian Express",
+      "author": "Parenting Desk",
+      "urlToImage": "https://images.indianexpress.com/2022/04/GettyImages-children-food-allergy-1200.jpg",
+      "description": "Having a child with a food allergy may be frightening and stressful. You'll need to keep a close eye on their nutrition.",
+      "onClick": "abc",
+      "id": 6
+    },
+    {
+      "title": "Contro insonnia e risvegli notturni ecco 3 alimenti da consumare prima di andare a dormire per evitare di passare le notti in bianco - Proiezioni di Borsa",
+      "author": "Jennifer Raimondi",
+      "urlToImage": "https://www.proiezionidiborsa.it/wp-content/uploads/2021/09/insonnia.jpg",
+      "description": "Capita spesso di passare le notti in bianco, di avere difficoltà a dormire tutta la notte senza fastidiosi risvegli. Una condizione che si verifica sempre",
+      "id": 7
+    },
+    {
+      "title": "Health news: Washing your dog's bowl can affect your health, US life expectancy drops, and more - Missoulian",
+      "author": "AP, CNN",
+      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/missoulian.com/content/tncms/assets/v3/editorial/7/c6/7c6fcaed-5d59-5920-9fd9-b20123a7f211/6254c6a423829.preview.jpg?crop=1600%2C840%2C0%2C113&resize=1200%2C630&order=crop%2Cresize",
+      "description": "Certain personality traits may be a key factor in whether people develop mild cognitive impairment later in life, a new study found. Here's that, and even more health news.",
+      "id": 8
+    },
+    {
+      "title": "More severe flu season expected, but not yet back to pre-Covid levels - News24",
+      "author": "Adele Baleta",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/2165/be6e7fcf968a44e0802a132f2145495b.jpg",
+      "description": "Health experts expect this year’s flu season in South Africa to be far less severe than flu seasons prior to the COVID-19 pandemic, but more severe than last year. Adele Baleta reports on the reasons for thinking this and what we know about this year’s flu va…",
+      "id": 9
+    },
+    {
+      "title": "Bedwetting can be a symptom of potentially lethal cardiac arrhythmias: Research - Hindustan Times",
+      "author": "ANI",
+      "urlToImage": "https://images.hindustantimes.com/img/2022/04/12/1600x900/pjimage_(26)_1647009909656_1649736687972.jpg",
+      "description": "The study says it is important to raise awareness of the fact that the same arrhythmias known to cause syncope in the \"awake patient\" may also cause nocturnal seizures during sleep. | Health",
+      "id": 10
+    },
+    {
+      "title": "Au CHU de Montpellier, des groupes de paroles pour apprendre à vivre avec la maladie - France Bleu",
+      "author": "Valentin Bertrand",
+      "urlToImage": "https://cdn.radiofrance.fr/s3/cruiser-production/2022/04/226a491a-c4f1-43d4-9911-15d0dcd0dff6/870x489_20220408_113154.jpg",
+      "description": "Arthrose, diabète, Alzheimer... pour près de 70 maladies, le CHU de Montpellier propose des cursus d'éducation thérapeutique du patient. Des malades se réunissent autour de soignants pour apprendre à mieux gérer leur pathologie, et aussi la dédramatiser.",
+      "id": 11
+    },
+    {
+      "title": "Castilla-La Mancha debe 'fichar' a 269 médicos especialistas - Diario Sanitario",
+      "author": "Redacción",
+      "urlToImage": "https://img-b4d4.kxcdn.com/wp-content/uploads/2021/07/residentes-ab-2021.jpg",
+      "description": "En Castilla-La Mancha terminarán la residencia 269 médicos, 'especialistas' que necesita el sistema público de salud.",
+      "id": 12
+    },
+    {
+      "title": "Britain widens access to Pfizer's COVID antiviral drug through trial - The Jakarta Post - The Jakarta Post",
+      "author": "The Jakarta Post",
+      "urlToImage": "https://img.jakpost.net/c/2021/12/02/2021_12_02_120085_1638432751._large.jpg",
+      "description": "Paxlovid, a combination of Pfizer's new pill with older antiviral ritonavir, was made available to thousands of people with compromised immune systems in Britain in February.",
+      "id": 13
+    },
+    {
+      "title": "Bedwetting can be a symptom of potentially lethal cardiac arrhythmias: Research - Hindustan Times",
+      "author": "ANI",
+      "urlToImage": "https://images.hindustantimes.com/img/2022/04/12/1600x900/pjimage_(26)_1647009909656_1649736687972.jpg",
+      "description": "The study says it is important to raise awareness of the fact that the same arrhythmias known to cause syncope in the \"awake patient\" may also cause nocturnal seizures during sleep. | Health",
+      "id": 14
+    },
+    {
+      "title": "Au CHU de Montpellier, des groupes de paroles pour apprendre à vivre avec la maladie - France Bleu",
+      "author": "Valentin Bertrand",
+      "urlToImage": "https://cdn.radiofrance.fr/s3/cruiser-production/2022/04/226a491a-c4f1-43d4-9911-15d0dcd0dff6/870x489_20220408_113154.jpg",
+      "description": "Arthrose, diabète, Alzheimer... pour près de 70 maladies, le CHU de Montpellier propose des cursus d'éducation thérapeutique du patient. Des malades se réunissent autour de soignants pour apprendre à mieux gérer leur pathologie, et aussi la dédramatiser.",
+      "id": 15
+    },
+    {
+      "title": "Castilla-La Mancha debe 'fichar' a 269 médicos especialistas - Diario Sanitario",
+      "author": "Redacción",
+      "urlToImage": "https://img-b4d4.kxcdn.com/wp-content/uploads/2021/07/residentes-ab-2021.jpg",
+      "description": "En Castilla-La Mancha terminarán la residencia 269 médicos, 'especialistas' que necesita el sistema público de salud.",
+      "id": 16
+    },
+    {
+      "title": "Britain widens access to Pfizer's COVID antiviral drug through trial - The Jakarta Post - The Jakarta Post",
+      "author": "The Jakarta Post",
+      "urlToImage": "https://img.jakpost.net/c/2021/12/02/2021_12_02_120085_1638432751._large.jpg",
+      "description": "Paxlovid, a combination of Pfizer's new pill with older antiviral ritonavir, was made available to thousands of people with compromised immune systems in Britain in February.",
+      "id": 17
+    },
+    {
+      "title": "Au CHU de Montpellier, des groupes de paroles pour apprendre à vivre avec la maladie - France Bleu",
+      "author": "Valentin Bertrand",
+      "urlToImage": "https://cdn.radiofrance.fr/s3/cruiser-production/2022/04/226a491a-c4f1-43d4-9911-15d0dcd0dff6/870x489_20220408_113154.jpg",
+      "description": "Arthrose, diabète, Alzheimer... pour près de 70 maladies, le CHU de Montpellier propose des cursus d'éducation thérapeutique du patient. Des malades se réunissent autour de soignants pour apprendre à mieux gérer leur pathologie, et aussi la dédramatiser.",
+      "id": 18
+    },
+    {
+      "title": "Vaccine safety — from subjective self-reports to physiological data — ScienceDaily - Verve Times",
+      "author": "Addrew Shawn",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "description": "A new study from Tel Aviv University enables developers, for the first time in the world, to determine vaccine safety via smart sensors that measure objective physiological parameters. According to the researchers, most clinical trials testing the sa",
+      "id": 19
+    },
+    {
+      "title": "Por qué 'solo' el 20% de los fumadores contrae cáncer de pulmón: el estudio que alumbra el misterio - EL ESPAÑOL",
+      "author": null,
+      "urlToImage": "https://s1.eestatic.com/2022/04/11/actualidad/664194473_223489862_600x315.jpg",
+      "description": "Los científicos aventuran que ciertas personas pueden tener mecanismos más robustos de reparación del daño que causa el tabaco al ADN.",
+      "id": 20
+    },
+    {
+      "title": "Why is ‘Other’ in my iPhone storage taking up so much space and how do I clear it?",
+      "author": "The Conversation",
+      "urlToImage": "https://img-cdn.tnwcdn.com/image/plugged?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F05%2FiPhone-Other-storage-hed.jpg&signature=997a333c0dbe9fb14606de7420a65b84",
+      "description": "If you’re an iPhone user, check your storage now by selecting Settings, then General, and then iPhone Storage.\r\n\r\nYou’ll probably see a lot of recognizable categories eating up ...",
+      "id": 21
+    },
+    {
+      "title": "Horoscope Today, April 15, 2022: Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn, Aquarius, Pisces - India Today",
+      "author": null,
+      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202204/Daily_horoscope_0-647x363.jpeg?2yB0Z_TQVekRG.RHr.iND1aVKWXB5eLX",
+      "description": "Horoscope Today, April 15, 2022: Read the astrological prediction for Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn, Aquarius and Pisces, here.",
+      "id": 22
+    },
+    {
+      "title": "Por qué 'solo' el 20% de los fumadores contrae cáncer de pulmón: el estudio que alumbra el misterio - EL ESPAÑOL",
+      "author": null,
+      "urlToImage": "https://s1.eestatic.com/2022/04/11/actualidad/664194473_223489862_600x315.jpg",
+      "description": "Los científicos aventuran que ciertas personas pueden tener mecanismos más robustos de reparación del daño que causa el tabaco al ADN.",
+      "id": 23
+    },
+    {
+      "title": "Horoscope Today, April 15, 2022: Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn, Aquarius, Pisces - India Today",
+      "author": null,
+      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202204/Daily_horoscope_0-647x363.jpeg?2yB0Z_TQVekRG.RHr.iND1aVKWXB5eLX",
+      "description": "Horoscope Today, April 15, 2022: Read the astrological prediction for Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn, Aquarius and Pisces, here.",
+      "id": 24
+    },
+    {
+      "title": "Bedwetting can be a symptom of potentially lethal cardiac arrhythmias: Research - Hindustan Times",
+      "author": "ANI",
+      "urlToImage": "https://images.hindustantimes.com/img/2022/04/12/1600x900/pjimage_(26)_1647009909656_1649736687972.jpg",
+      "description": "The study says it is important to raise awareness of the fact that the same arrhythmias known to cause syncope in the \"awake patient\" may also cause nocturnal seizures during sleep. | Health",
+      "id": 25
+    },
+    {
+      "title": "Clubhouse dark mode launched for iPhone and Android users; Know how to use it - HT Tech",
+      "author": "Himani Jha",
+      "urlToImage": "https://images.hindustantimes.com/tech/img/2022/04/15/1600x900/CLUBHOUSE-BUSSINESS--0_1645858809011_1650014698260.JPG",
+      "description": "Clubhouse dark mode has been introduced to make it easier for night owls to use the app late at night without hurting their eyes. Know how to use it.",
+      "id": 26
+    },
+    {
+      "title": "Judge denies Trevor Bauer's request for accuser's phone records - Reuters.com",
+      "author": null,
+      "urlToImage": "https://www.reuters.com/resizer/_nuzfd-YxJXIvFGyRnihZ_IwvhU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7AOMOG2LWVLYBFEOITVGODDWUQ.jpg",
+      "description": "A Los Angeles Superior Court judge on Monday denied Trevor Bauer's request to obtain the cellphone records of the woman who accused him of sexual assault, citing a technicality, the Los Angeles Times reported.",
+      "id": 27
+    },
+    {
+      "title": "iPhone14でLightning端子の通信速度がUSB 2.0から3.0相当に？ - iPhone Mania",
+      "author": "FT729",
+      "urlToImage": "https://iphone-mania.jp/uploads/2022/04/iPhone14-Pro-Ianzelbo.jpg",
+      "description": "&nbsp;iDrop Newsが、Appleは、iPhone14シリーズのLightning端子の通信速度を、これまでのUSB 2.0からUSB 3.0相当に高速化するべく開発に取り組んでいると伝え…",
+      "id": 28
+    },
+    {
+      "title": "Quais os benefícios para a saúde de comer mamão todos os dias - Edital Concursos Brasil",
+      "author": "Gabriela Stahler",
+      "urlToImage": "https://editalconcursosbrasil.com.br/wp-content/uploads/2021/12/plantar-mamao.jpg",
+      "description": "Se você comer mamão todos os dias perceberá uma melhora em diversos fatores de seu organismo. A fruta fortalece o sistema imunológico.",
+      "id": 29
+    },
+    {
+      "title": "These symptoms could indicate that the liver is fatty and reveal the presence of a silent tumor even at a y... - D1SoftballNews.com",
+      "author": "James",
+      "urlToImage": "https://www.proiezionidiborsa.it/wp-content/uploads/2020/08/fegato-scaled.jpg",
+      "description": "For a long and peaceful existence, having an active lifestyle and following a healthy and balanced diet are fundamental rules. But at the same time it is necessary, especially as you reach the age of",
+      "id": 30
+    }
+  ]
+}
